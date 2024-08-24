@@ -32,7 +32,7 @@ class CategoryController extends Controller
     {
 
         // dd(request());
-        //
+        
         $attributeNames  = [
             'category_name' => 'Category Name',
             'category_description' => 'Category Description',
